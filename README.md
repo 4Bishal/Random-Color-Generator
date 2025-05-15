@@ -1,6 +1,6 @@
 # Random-Color-Generator
 
-It is a basic ui page that generate color with a color code after clicking the button
+It is a basic UI page that generate color with a color code after clicking the button
 
 # Author
 
